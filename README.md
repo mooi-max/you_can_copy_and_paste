@@ -1,7 +1,4 @@
-# you_can_copy_and_paste
-我是一个大学生，在写水课作业的时候发现网站有复制贴贴的限制，于是开发了这个强制复制贴贴工具，只需要下载双击就能使用，复制是ctrl+shift+c，贴贴是ctrl+shift+v。后续会持续更新它的功能，有然后问题和建议都可以联系我。
-
-# 🪄 You-Can-Copy-And-Paste
+<img width="774" height="658" alt="image" src="https://github.com/user-attachments/assets/3b5e97b9-5210-451d-b9fb-3e1126331330" /># 🪄 You-Can-Copy-And-Paste
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![AHK Version](https://img.shields.io/badge/AutoHotkey-v2.0+-green.svg)
@@ -33,7 +30,10 @@
 ### 方案一：普通用户（推荐，免安装环境）
 1. 前往本仓库的 [Releases 页面](../../releases/latest) 下载最新版的 `you_can_copy_and_paste.exe`。
 2. 双击运行即可，无需安装。
-3. 观察任务栏右下角，出现绿色 "H" (或自定义) 托盘图标即代表运行成功。右键图标可进入“设置”面板。
+3. 观察任务栏右下角，出现绿色 "H" (或自定义) 托盘图标即代表运行成功，可以设置休眠/唤醒/退出
+4. 右键图标可进入“设置”面板。
+<img width="774" height="658" alt="image" src="https://github.com/user-attachments/assets/fa3cfc89-956d-4eeb-a17e-8cd9884ba1ac" />
+
 
 ### 方案二：开发者运行源码
 1. 请确保您的电脑已安装 [AutoHotkey v2](https://www.autohotkey.com/v2/) 环境。
