@@ -1,7 +1,7 @@
 # you_can_copy_and_paste
 我是一个大学生，在写水课作业的时候发现网站有复制贴贴的限制，于是开发了这个强制复制贴贴工具，只需要下载双击就能使用，复制是ctrl+shift+c，贴贴是ctrl+shift+v。后续会持续更新它的功能，有然后问题和建议都可以联系我。
 
-# 🪄 You-Can-Copy-And-Paste (无极复制粘贴)
+# 🪄 You-Can-Copy-And-Paste
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![AHK Version](https://img.shields.io/badge/AutoHotkey-v2.0+-green.svg)
