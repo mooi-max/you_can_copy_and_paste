@@ -30,7 +30,6 @@
 
 ### 运行环境
 - 操作系统：Windows 10 / Windows 11
-- 运行依赖：[AutoHotkey v2.0+](https://www.autohotkey.com/) （如使用编译后的 `.exe` 则无需安装）
 
 ### 启动方式
 1. 下载最新版本的压缩包并解压。
