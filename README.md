@@ -17,13 +17,13 @@
 
 ## **gitcode下载**
 
-* ⬇️[v3.0便携版下载](https://raw.gitcode.com/2401_89382898/you_can_copy_and_paste/archive/refs/heads/v3.0.zip)
-* ⬇️[v2.0多功能版下载](https://raw.gitcode.com/2401_89382898/you_can_copy_and_paste/archive/refs/heads/v2.0.zip)
+* ⬇️[v3.0便携版下载](https://raw.gitcode.com/2401_89382898/you_can_copy_and_paste/archive/refs/heads/v3.1.zip)
+* ⬇️[v2.0多功能版下载](https://raw.gitcode.com/2401_89382898/you_can_copy_and_paste/archive/refs/heads/v2.1.zip)
 
 ## **github下载（推荐）**
 
-* ⬇️[v3.0便携版下载（推荐）](https://github.com/mooi-max/You-Can-Copy-And-Paste/archive/refs/tags/v3.0.zip)
-* ⬇️[v2.0多功能版下载](https://github.com/mooi-max/You-Can-Copy-And-Paste/archive/refs/tags/v2.0.zip)
+* ⬇️[v3.0便携版下载（推荐）](https://github.com/mooi-max/You-Can-Copy-And-Paste/archive/refs/tags/v3.1.zip)
+* ⬇️[v2.0多功能版下载](https://github.com/mooi-max/You-Can-Copy-And-Paste/archive/refs/tags/v2.1.zip)
 
 ------
 
